@@ -33,7 +33,7 @@ Create a bot via [@BotFather](https://t.me/BotFather), get your bot token and ch
 
 ## 📊 Screenshot
 
-![Anomaly Detection](rig_monitor/
+![Anomaly Detection](rig_monitor/11C9D3F0-4464-4035-8C13-CD6A5D304DB7.png
 ## 🤖 Coming Soon
 - Live Streamlit dashboard
 - Integration with HiveOS/NiceHash APIs
