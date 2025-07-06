@@ -30,6 +30,10 @@ Create a bot via [@BotFather](https://t.me/BotFather), get your bot token and ch
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 ![AI-Powered](https://img.shields.io/badge/powered%20by-IsolationForest-brightgreen)
 ![Status](https://img.shields.io/badge/status-active-success)
+
+## 📊 Screenshot
+
+![Anomaly Detection](rig_monitor/
 ## 🤖 Coming Soon
 - Live Streamlit dashboard
 - Integration with HiveOS/NiceHash APIs
