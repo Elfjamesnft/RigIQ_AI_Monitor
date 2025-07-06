@@ -27,7 +27,9 @@ python rig_monitor/rigiq_monitor.py
 
 ## 📬 Telegram Alerts
 Create a bot via [@BotFather](https://t.me/BotFather), get your bot token and chat ID, and plug them into the script.
-
+![Python](https://img.shields.io/badge/python-3.8+-blue)
+![AI-Powered](https://img.shields.io/badge/powered%20by-IsolationForest-brightgreen)
+![Status](https://img.shields.io/badge/status-active-success)
 ## 🤖 Coming Soon
 - Live Streamlit dashboard
 - Integration with HiveOS/NiceHash APIs
